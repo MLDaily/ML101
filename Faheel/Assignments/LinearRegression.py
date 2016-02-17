@@ -7,8 +7,8 @@ def cost(x, y, theta):
 	m = len(x)
 	for i in range(m):
 		cost += pow(hypothesis(x[i], theta) - y[i], 2)
-
 	cost /= 2 * m
+
 	return cost
 
 

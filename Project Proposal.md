@@ -109,6 +109,13 @@ Examples of things to not put in your supplementary material:
 
 *  A computer virus.
 
+##Important Dates:
+
+Course project proposal: due March 6.
+
+Course project milestone: due April 3.
+
+Final course project: due June 5 (11:59pm).
 
 ##Honor Code
 You may consult any papers, books, online references, or publicly available implementations for ideas and code that you may want to incorporate into your strategy or algorithm, so long as you clearly cite your sources in your code and your writeup. However, under no circumstances may you look at another group’s code or incorporate their code into your project. 

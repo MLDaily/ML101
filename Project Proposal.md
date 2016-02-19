@@ -16,21 +16,14 @@ We know that machine learning is a vast field, and can be applied to any specifi
 
 To inspire ideas, you might look at recent publications from top-tier conferences, as well as other resources below.
 
-  [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-  
-  [CVPR](http://www.pamitc.org/cvpr14/accepted_papers.php): IEEE Conference on Computer Vision and Pattern Recognition
-  
-  [ICCV](http://www.cvpapers.com/iccv2013.html): International Conference on Computer Vision
-  
-  [ECCV](http://eccv2014.org/accepted-papers/): European Conference on Computer Vision
-  
-  [NIPS](http://nips.cc/Conferences/2014/Program/accepted-papers.php): Neural Information Processing Systems
-  
-  [ICLR](http://openreview.net/venue/iclr2014): International Conference on Learning Representations
-  
-  [Past CS229 Projects](http://cs229.stanford.edu/projects2013.html): Example projects from Stanford machine learning class
-  
-  [Kaggle challenges](http://www.kaggle.com/): An online machine learning competition website. For example, a Yelp classification challenge.
+*  [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+*  [CVPR](http://www.pamitc.org/cvpr14/accepted_papers.php): IEEE Conference on Computer Vision and Pattern Recognition
+*  [ICCV](http://www.cvpapers.com/iccv2013.html): International Conference on Computer Vision
+*  [ECCV](http://eccv2014.org/accepted-papers/): European Conference on Computer Vision
+*  [NIPS](http://nips.cc/Conferences/2014/Program/accepted-papers.php): Neural Information Processing Systems
+*  [ICLR](http://openreview.net/venue/iclr2014): International Conference on Learning Representations
+*  [Past CS229 Projects](http://cs229.stanford.edu/projects2013.html): Example projects from Stanford machine learning class  
+*  [Kaggle challenges](http://www.kaggle.com/): An online machine learning competition website. For example, a Yelp classification challenge.
 
 For applications, this type of projects would involve careful data preparation, an appropriate loss function, details of training and cross-validation and good test set evaluations and model comparisons. Don't be afraid to think outside of the box.
 
@@ -43,29 +36,29 @@ You will submit your final recommenders and we will maintain a class leaderboard
 ##Project Proposal
 The project proposal should be one paragraph (200-400 words). If you work on your own project, your proposal should contain:
 
-  What is the problem that you will be investigating? Why is it interesting?
+*  What is the problem that you will be investigating? Why is it interesting?
 
-  What data will you use? If you are collecting new datasets, how do you plan to collect them?
+*  What data will you use? If you are collecting new datasets, how do you plan to collect them?
 
-  What method or algorithm are you proposing? If there are existing implementations, will you use them and how? How do you plan to improve or modify such implementations?
+*  What method or algorithm are you proposing? If there are existing implementations, will you use them and how? How do you plan to improve or modify such implementations?
 
-  What reading will you examine to provide context and background?
+*  What reading will you examine to provide context and background?
 
-  How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)? Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?
+*  How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)? Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?
 
     
 ##Project Milestone
 Your project milestone report should be between 2 - 3 pages using the provided template. The following is a suggested structure for your report:
 
-  Title, Author(s)
+*  Title, Author(s)
 
-  Introduction: this section introduces your problem, and the overall plan for approaching your problem
+*  Introduction: this section introduces your problem, and the overall plan for approaching your problem
 
-  Problem statement: Describe your problem precisely specifying the dataset to be used, expected results and evaluation
+*  Problem statement: Describe your problem precisely specifying the dataset to be used, expected results and evaluation
 
-  Technical Approach: Describe the methods you intend to apply to solve the given problem
+*  Technical Approach: Describe the methods you intend to apply to solve the given problem
 
-  Intermediate/Preliminary Results: State and evaluate your results upto the milestone
+*  Intermediate/Preliminary Results: State and evaluate your results upto the milestone
 
 
 <strong>Submission:</strong> Please upload a PDF file named <your name>_milestone.pdf to the Project folder. Note that, each individual in a team is required to make submission (i.e. the same PDF) for grading purpose. The late days are counted by the timestamp of the last submission in the team.
@@ -75,47 +68,48 @@ Your final write-up should be between 6 - 8 pages using the provided template. A
 
 Submit your final submission through CourseWork. You will submit one or two files:
 
-  A pdf file of your final report
-  (OPTIONAL) zip file (or pdf file) with Supplementary Materials
+*  A pdf file of your final report
 
+*  (OPTIONAL) zip file (or pdf file) with Supplementary Materials
 
 Report. The following is a suggested structure for the report:
 
-  Title, Author(s)
+*  Title, Author(s)
 
-  Abstract: It should not be more than 300 words
+*  Abstract: It should not be more than 300 words
 
-  Introduction: this section introduces your problem, and the overall plan for approaching your problem
+*  Introduction: this section introduces your problem, and the overall plan for approaching your problem
 
-  Background/Related Work: This section discusses relevant literature for your project
+*  Background/Related Work: This section discusses relevant literature for your project
 
-  Approach: This section details the framework of your project. Be specific, which means you might want to include equations, figures, plots, etc
+*  Approach: This section details the framework of your project. Be specific, which means you might want to include equations, figures, plots, etc
 
-  Experiment: This section begins with what kind of experiments you're doing, what kind of dataset(s) you're using, and what is the way you measure or evaluate your results. It then shows in details the results of your experiments. By details, we mean both quantitative evaluations (show numbers, figures, tables, etc) as well as qualitative results (show images, example results, etc).
+*  Experiment: This section begins with what kind of experiments you're doing, what kind of dataset(s) you're using, and what is the way you measure or evaluate your results. It then shows in details the results of your experiments. By details, we mean both quantitative evaluations (show numbers, figures, tables, etc) as well as qualitative results (show images, example results, etc).
 
-  Conclusion: What have you learned? Suggest future ideas.
+*  Conclusion: What have you learned? Suggest future ideas.
 
-  References: This is absolutely necessary.
+*  References: This is absolutely necessary.
 
 <strong>Supplementary Material</strong> is not counted toward your 6-8 page limit.
 Examples of things to put in your supplementary material:
 
-  Source code (if your project proposed an algorithm, or code that is relevant and important for your project.).
+*  Source code (if your project proposed an algorithm, or code that is relevant and important for your project.).
 
-  Cool videos, interactive visualizations, demos, etc.
+*  Cool videos, interactive visualizations, demos, etc.
 
 Examples of things to not put in your supplementary material:
 
-  All of Caffe source code.
+*  All of Caffe source code.
 
-  Various ordinary data preprocessing scripts.
+*  Various ordinary data preprocessing scripts.
 
-  Any code that is larger than 1MB.
+*  Any code that is larger than 1MB.
 
-  Model checkpoints.
+*  Model checkpoints.
 
-  A computer virus.
+*  A computer virus.
 
 
 ##Honor Code
 You may consult any papers, books, online references, or publicly available implementations for ideas and code that you may want to incorporate into your strategy or algorithm, so long as you clearly cite your sources in your code and your writeup. However, under no circumstances may you look at another group’s code or incorporate their code into your project. 
+

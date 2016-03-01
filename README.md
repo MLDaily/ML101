@@ -3,4 +3,12 @@ Machine Learning Tutorials
 
 Please take a look at the [project proposals](https://github.com/MLDaily/ML101/blob/master/Project%20Proposal.md).
 
+
 Please fill this [form](https://docs.google.com/forms/d/19hfuLTIKbo4mqh_U1GR3FqQmcDSBQbSO8KTh4rTIiwQ/viewform).
+
+
+####Python Refresher
+* [Quick Review](https://github.com/nickedes/Pybaby)
+* [Google Python Course Videos](https://www.youtube.com/playlist?list=PLfZeRfzhgQzTMgwFVezQbnpc1ck0I6CQl)
+* [Google for Education](https://developers.google.com/edu/python/)
+

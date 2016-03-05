@@ -5,11 +5,13 @@ from data_import import *
 """
 Logistic regression finds a relation among the input and the output. You have been given
 
-theta (vector initialised to all zeros)
-X (input array/matrix)
-Y(output array corresponding to each input).
+theta (vector initialised to all zeros), X (input array/matrix), Y(output array corresponding
+to each input).
 m is the number of training data.
 n is the number of features in the training data.
+
+alpha = learning rate       #Initialise it according to convinience
+lamda = regularisation constant     #Initialise
 
 Feel free to optimise and use upgradations for bonus points.
 

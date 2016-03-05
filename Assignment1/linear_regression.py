@@ -10,6 +10,7 @@ m is the number of training data.
 n is the number of features in the training data.
 
 alpha = learning rate		#Initialise it according to convinience
+lamda = regularisation constant		#Initialise
 
 Feel free to optimise and use upgradations for bonus points.
 

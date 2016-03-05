@@ -31,7 +31,7 @@ For applications, this type of projects would involve careful data preparation, 
 
 If you are unable to come up with a project idea, you can fall back to working on the Recommendation System. The goal of the challenge will be for you to do as well as possible on the System of recommending locations to user based on their previously visited locations.
 
-You will submit your final recommenders and we will maintain a class leaderboard.
+You will submit your final recommendations and we will maintain a class leaderboard.
 
 ##Project Proposal
 The project proposal should be one paragraph (200-400 words). If you work on your own project, your proposal should contain:

@@ -28,5 +28,3 @@ Please fill this [form](https://docs.google.com/forms/d/19hfuLTIKbo4mqh_U1GR3FqQ
 [Visualisation using ggplot part 4](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-4/)
 
 [Visualisation using ggplot part 5](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-5/)
-
-[Basics of Matplotlib](https://themessier.wordpress.com/2016/03/05/basics-of/)

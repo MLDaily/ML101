@@ -15,7 +15,9 @@ Please fill this [form](https://docs.google.com/forms/d/19hfuLTIKbo4mqh_U1GR3FqQ
 
 ##Class Notes
 
-[Intuition to Linear Regression](http://mldaily.github.io/regression/2016/01/08/regression.html)
+[Introduction to Linear Regression](http://mldaily.github.io/regression/2016/01/08/regression.html)
+
+[Visualisation using Matplotlib](https://themessier.wordpress.com/https://themessier.wordpress.com/2016/03/05/basics-of/)
 
 [Visualisation using ggplot part 1](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-1/)
 

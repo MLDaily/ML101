@@ -17,6 +17,10 @@ Please fill this [form](https://docs.google.com/forms/d/19hfuLTIKbo4mqh_U1GR3FqQ
 
 [Intuition to Linear Regression](http://mldaily.github.io/regression/2016/01/08/regression.html)
 
+[Introduction to Linear Regression](http://mldaily.github.io/regression/2016/01/08/regression.html)
+
+[Visualisation using Matplotlib](https://themessier.wordpress.com/https://themessier.wordpress.com/2016/03/05/basics-of/)
+
 [Visualisation using ggplot part 1](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-1/)
 
 [Visualisation using ggplot part 2](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-2/)
@@ -26,5 +30,3 @@ Please fill this [form](https://docs.google.com/forms/d/19hfuLTIKbo4mqh_U1GR3FqQ
 [Visualisation using ggplot part 4](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-4/)
 
 [Visualisation using ggplot part 5](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-5/)
-
-

@@ -3,7 +3,10 @@
 from data_import import *
 
 """
-Logistic regression finds a relation among the input and the output. You have been given
+Logistic regression finds a relation among the input and the output.
+The difference between linear regression and logistic regression is that it finds
+a curve rather than a line to fit the given data.
+You have been given
 
 theta (vector initialised to all zeros), X (input array/matrix), Y(output array corresponding
 to each input).

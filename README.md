@@ -12,3 +12,19 @@ Please fill this [form](https://docs.google.com/forms/d/19hfuLTIKbo4mqh_U1GR3FqQ
 * [Google Python Course Videos](https://www.youtube.com/playlist?list=PLfZeRfzhgQzTMgwFVezQbnpc1ck0I6CQl)
 * [Google for Education](https://developers.google.com/edu/python/)
 
+
+##Class Notes
+
+[Intuition to Linear Regression](http://mldaily.github.io/regression/2016/01/08/regression.html)
+
+[Visualisation using ggplot part 1](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-1/)
+
+[Visualisation using ggplot part 2](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-2/)
+
+[Visualisation using ggplot part 3](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-3/)
+
+[Visualisation using ggplot part 4](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-4/)
+
+[Visualisation using ggplot part 5](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-5/)
+
+

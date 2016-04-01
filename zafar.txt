@@ -1,0 +1,44 @@
+Project Proposal
+
+Objective: To design a document analyzing tool capable of 
+predicting the essence of the document and to generate a 
+logically and semantically correct summary statements
+
+
+Background
+
+Document summarization is one of the major research fields in Machine Learning and to implicitly summarise a document (abstractive summarisation) or a set of small documents having similar context (like tweets) is a challenging task. It is somewhat similar to Natural Language Processing.
+
+
+Languages/Platform
+
+Python and its Data Analysing Libraries
+Tweepy to use with Twitter API
+NLTK for Natural Language Processing
+
+
+Datasets
+
+http://mlg.ucd.ie/datasets/bbc.html
+http://www.di.unipi.it/~gulli/AG_corpus_of_news_articles.html
+
+and any other open dataset that can be found after proper investigation
+
+
+Algorithms/Techniques
+
+1. Cleaning, stopping and wrangling of documents
+2. Training of convolutional neural networks
+
+
+Readings
+
+https://en.wikipedia.org/wiki/Automatic_summarization
+https://en.wikipedia.org/wiki/Multi-document_summarization
+http://www.ict.nsc.ru/jct/content/t12n5/Aliguliyev.pdf
+http://www.cs.cmu.edu/~nasmith/LS2/das-martins.07.pdf
+
+
+Analyzing Results
+
+Qualitative analysis

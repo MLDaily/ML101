@@ -1,0 +1,25 @@
+					SUDOKU PATTERN RECOGNITION:
+
+A very special thanks to our senior, Ahsan, for suggesting this idea. I preferred choosing this project 
+over other ones as it will provide a better insight on the concepts of neural networks and computer vision.
+
+The motto of this project is to predict the soluion of a sudoku with some already placed entries, 
+through digit pattern recognition and then applying some backend algorithms to find the result.
+
+The user will scan an image of an incomplete sudoku problem through android device from any printed
+or handwritten source. Firstly, through bot/computer vision, the device will recognize the grid structure
+and locate the digit position. Next, the digits will be inferred from the given source. This will require 
+application of artificial neural networks (using learning  algorithms), recognition of digits in each slot 
+if it is there, or interpret it as a blank space if it is not there. 
+
+The idea of neural networks here is to take a large number of handwritten digits, 
+known as training examples, and then develop a system which can learn from those training examples. 
+In other words, the neural network uses the examples to automatically infer rules for recognizing 
+handwritten digits. Furthermore, by increasing the number of training examples, the network can 
+learn more about handwriting, and hence improves its accuracy.
+
+This project is highly focused on handwritten digit recognition, since it would be a better approach
+problem for learning about neural networks contrary to the printed ones. After the main task, some 
+inner algorithms wil be used, similar to backtracking algorithm to fill out the remaining blank spots,
+but emphasis will be on making the algo more efficient. The device will then output the correct placement
+of each digit in the remaining spots.

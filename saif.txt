@@ -1,0 +1,5 @@
+I would like to propose a project on a virtual assistant. It would  entertain the users with quirky answers. Its most sought application as I perceive ,would be able to converse with a person and keep the conversation going on. I would be providing data personally or with the help of some other person. The assistant will be able to learn after each interaction. Also the interaction would be different for each person.
+There would be an option for the person to interact with the assistant as a new user.
+The assistant would interact with the person based on its previous conversations with him and also incorporate the new discussion in its database.
+This project would implement Natural Language Processing as well as Natural Language Understanding.
+Evaluation of results in my view can be done by the interaction of a new user and the assistant

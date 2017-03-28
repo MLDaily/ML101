@@ -1,10 +1,10 @@
-#Project Details:
+# Project Details:
 
 Hello everyone, what I have usually seen is that we learn the best and the fastest when we are doing projects. So, this is a simple attempt to make you learn the things that we will be discussing in the class as well as otherwise.
 
 The Course Project is an opportunity for you to apply what you have learned in class to a problem of your interest. There are two project options you can pick from:
 
-##Option 1: Your own project (Encouraged)
+## Option 1: Your own project (Encouraged)
 
 You are encouraged to select a topic and work on your own project. Potential projects usually fall into these two tracks:
 
@@ -27,13 +27,13 @@ To inspire ideas, you might look at recent publications from top-tier conference
 
 For applications, this type of projects would involve careful data preparation, an appropriate loss function, details of training and cross-validation and good test set evaluations and model comparisons. Don't be afraid to think outside of the box.
 
-##Option 2: Recommendation of Favourite Locations
+## Option 2: Recommendation of Favourite Locations
 
 If you are unable to come up with a project idea, you can fall back to working on the Recommendation System. The goal of the challenge will be for you to do as well as possible on the System of recommending locations to user based on their previously visited locations.
 
 You will submit your final recommendations and we will maintain a class leaderboard.
 
-##Project Proposal
+## Project Proposal
 The project proposal should be one paragraph (200-400 words). If you work on your own project, your proposal should contain:
 
 *  What is the problem that you will be investigating? Why is it interesting?
@@ -47,7 +47,7 @@ The project proposal should be one paragraph (200-400 words). If you work on you
 *  How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)? Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?
 
     
-##Project Milestone
+## Project Milestone
 Your project milestone report should be between 2 - 3 pages using the provided template. The following is a suggested structure for your report:
 
 *  Title, Author(s)
@@ -63,7 +63,8 @@ Your project milestone report should be between 2 - 3 pages using the provided t
 
 <strong>Submission:</strong> Please upload a PDF file named <your name>_milestone.pdf to the Project folder. Note that, each individual in a team is required to make submission (i.e. the same PDF) for grading purpose. The late days are counted by the timestamp of the last submission in the team.
 
-##Final Submission
+## Final Submission
+
 Your final write-up should be between 6 - 8 pages using the provided template. After the class, we will post all the final reports online so that you can read about each others' work. If you do not want your writeup to be posted online, then please let us know at least a week in advance of the final writeup submission deadline.
 
 Submit your final submission through CourseWork. You will submit one or two files:
@@ -109,7 +110,7 @@ Examples of things to not put in your supplementary material:
 
 *  A computer virus.
 
-##Important Dates:
+## Important Dates:
 
 Course project proposal: due March 6.
 
@@ -117,6 +118,6 @@ Course project milestone: due April 3.
 
 Final course project: due June 5 (11:59pm).
 
-##Honor Code
+## Honor Code
 You may consult any papers, books, online references, or publicly available implementations for ideas and code that you may want to incorporate into your strategy or algorithm, so long as you clearly cite your sources in your code and your writeup. However, under no circumstances may you look at another group’s code or incorporate their code into your project. 
 

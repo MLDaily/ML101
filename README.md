@@ -7,13 +7,13 @@ Please take a look at the [project proposals](https://github.com/MLDaily/ML101/b
 Please fill this [form](https://docs.google.com/forms/d/19hfuLTIKbo4mqh_U1GR3FqQmcDSBQbSO8KTh4rTIiwQ/viewform).
 
 
-####Python Refresher
+## Python Refresher
 * [Quick Review](https://github.com/nickedes/Pybaby)
 * [Google Python Course Videos](https://www.youtube.com/playlist?list=PLfZeRfzhgQzTMgwFVezQbnpc1ck0I6CQl)
 * [Google for Education](https://developers.google.com/edu/python/)
 
 
-##Class Notes
+## Class Notes
 
 [Intuition to Linear Regression](http://mldaily.github.io/regression/2016/01/08/regression.html)
 
@@ -30,3 +30,10 @@ Please fill this [form](https://docs.google.com/forms/d/19hfuLTIKbo4mqh_U1GR3FqQ
 [Visualisation using ggplot part 4](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-4/)
 
 [Visualisation using ggplot part 5](https://themessier.wordpress.com/2015/06/17/ggplot-in-python-part-5/)
+
+
+## TODO
+
+1. I am going to make more assignments for this, if someone is interested in more datasets and practice.
+
+## Everyone is encouraged to contribute.
